@@ -1,4 +1,4 @@
-### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
+### 👋 Hi, I'm olalavui, fullstack developer and reverse engineer.
 
 ## &#x1f4c8; GitHub Stats
 
